@@ -8,6 +8,7 @@ Building an SPA using Spring Framework 6 and Angular
 * VSCode || IDE for angular application
 
 ### 
+Notes along creating the fullstack application from scratch 
 
 
   
